@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lalit Singh Shahi
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Typescript and Firebase.
+- 👨‍💻 I’m a Frontend Developer.
+- 🌱 Currently learning Typescript and Firebase.
 - 💞️ I’m looking to collaborate on React and React Native Projects.
 - 📫 Contact me at shahiLalit002@gmail.com
 
